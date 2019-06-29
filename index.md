@@ -9,6 +9,7 @@ layout: default
 ### @Scratch-Coding to Trusted Helper
 
 #### Group 1
+
 | Username     | Vote    |
 |:---------------------------------|:-----------------------|
 | @MClovers        | Yes       |
