@@ -11,7 +11,8 @@ layout: default
 #### Group 1
 Username       | Vote           
 -------------------- | --------------
-@MClovers             | Yes          
+@MClovers             | Yes        
+@CaptainRatlex         | Away
 
 ## Elections
 
