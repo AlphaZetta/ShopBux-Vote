@@ -14,18 +14,40 @@ layout: default
 |:---|:-----------------------|
 | @MClovers        | Yes       |
 | @CaptainRatlex        | On Leave     |
+| @Riddle_Man | None |
+| @NYCDOT | None |
+
+#### Group 2
+
+Username | Vote
+@Dragonlord767 | None
+@ajsya | None
+@berryjam3506 | None
 
 #### Group 3
 
 Username | Vote
 -|-
 @ZPgaming | Yes
+@FrenchBread49 | None
+@hellounicorns2 | None
+
+#### Group 4
+
+Username | Vote
+-|-
+@Alex11345 | None
+@Partial2Partials | None
+@coolcatcool2 | None
+@Scratch-Coding | Yes... Obviously...
+@Virus000 | None
 
 #### Group 5
 
-| Username | Vote |
-|:-|:-|
-| @smileycreations15 | Yes |
+Username | Vote
+-|-
+@smileycreations15 | Yes
+@1132262 | None
 
 ## Elections
 
