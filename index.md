@@ -30,7 +30,7 @@ Username | Vote
 -|-
 @ZPgaming | Yes
 @FrenchBread49 | None
-@hellounicorns2 | None
+@hellounicorns2 | Yes
 
 #### Group 4
 
