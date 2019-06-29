@@ -32,6 +32,9 @@ Username | Vote
 @FrenchBread49 | None
 @hellounicorns2 | Yes
 
+**WINNER: YES**
+**VOTES: 14**
+
 #### Group 4
 
 Username | Vote
