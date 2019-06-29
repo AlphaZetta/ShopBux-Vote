@@ -15,6 +15,12 @@ layout: default
 | @MClovers        | Yes       |
 | @CaptainRatlex        | On Leave     |
 
+#### Group 5
+
+| Username | Vote |
+|:-|:-|
+| @smileycreations15 | Yes |
+
 ## Elections
 
 *None at the moment*
