@@ -22,7 +22,7 @@ layout: default
 Username | Vote
 -|-
 @Dragonlord767 | None
-@ajsya | None
+@ajsya | Yes
 @berryjam3506 | None
 
 #### Group 3
@@ -34,6 +34,7 @@ Username | Vote
 @hellounicorns2 | Yes
 
 **WINNER: YES**
+
 **VOTES: 14**
 
 #### Group 4
