@@ -20,6 +20,7 @@ layout: default
 #### Group 2
 
 Username | Vote
+-|-
 @Dragonlord767 | None
 @ajsya | None
 @berryjam3506 | None
