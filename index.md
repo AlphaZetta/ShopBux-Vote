@@ -11,9 +11,15 @@ layout: default
 #### Group 1
 
 | Username     | Vote    |
-|:---------------------------------|:-----------------------|
+|:---|:-----------------------|
 | @MClovers        | Yes       |
 | @CaptainRatlex        | On Leave     |
+
+#### Group 3
+
+Username | Vote
+-|-
+@ZPgaming | Yes
 
 #### Group 5
 
