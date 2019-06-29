@@ -2,10 +2,12 @@
 layout: default
 ---
 
-# Votes
+# ShopBux Votes and Elections
+
+## Votes
 
 *None at the moment*
 
-# Elections
+## Elections
 
 *None at the moment*
