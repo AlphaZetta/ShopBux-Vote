@@ -54,6 +54,13 @@ Username | Vote
 @smileycreations15 | Yes
 @1132262 | None
 
+#### Total
+
+Vote | Amount
+-|-
+Yes | 14
+No | 0
+
 ## Elections
 
 *None at the moment*
