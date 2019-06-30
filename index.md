@@ -15,7 +15,11 @@ layout: default
 | @MClovers        | Yes       |
 | @CaptainRatlex        | On Leave     |
 | @Riddle_Man | None |
-| @NYCDOT | None |
+| @NYCDOT | Yes |
+
+**WINNER: YES**
+
+**VOTES: 16**
 
 #### Group 2
 
@@ -58,7 +62,7 @@ Username | Vote
 
 Vote | Amount
 -|-
-Yes | 14
+Yes | 30
 No | 0
 
 ## Elections
