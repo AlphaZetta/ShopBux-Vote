@@ -56,14 +56,20 @@ Username | Vote
 Username | Vote
 -|-
 @smileycreations15 | Yes
-@1132262 | None
+@1132262 | Yes
+
+**WINNER: YES**
+
+**VOTES: 8**
 
 #### Total
 
 Vote | Amount
 -|-
-Yes | 30
+Yes | 38
 No | 0
+
+**WINNER: YES**
 
 ## Elections
 
