@@ -96,7 +96,7 @@ Username | Vote
 -|-
 @ZPgaming | None
 @FrenchBread49 | Mining Codes
-@hellounicorns2 | None
+@hellounicorns2 | No Mining Codes
 
 #### Group 4
 
