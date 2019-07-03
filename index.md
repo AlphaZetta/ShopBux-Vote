@@ -116,15 +116,19 @@ Username | Vote
 
 Username | Vote
 -|-
-@smileycreations15 | None
+@smileycreations15 | Mining Codes
 @1132262 | No Mining Codes
+
+**WINNER: TIE, VOTES SPLIT**
+
+**VOTES: 4, 4**
 
 #### Total
 
 Vote | Amount
 -|-
-Yes | 0
-No | 14
+Yes | 4
+No | 18
 
 ## Elections
 
