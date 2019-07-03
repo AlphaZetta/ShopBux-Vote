@@ -87,25 +87,29 @@ Username | Vote
 Username | Vote
 -|-
 @Dragonlord767 | None
-@ajsya | None
+@ajsya | No Mining Codes
 @berryjam3506 | None
 
 #### Group 3
 
 Username | Vote
 -|-
-@ZPgaming | None
+@ZPgaming | No Mining Codes
 @FrenchBread49 | Mining Codes
 @hellounicorns2 | No Mining Codes
+
+**WINNER: NO MINING CODES**
+
+**VOTES: 14**
 
 #### Group 4
 
 Username | Vote
 -|-
 @Alex11345 | None
-@Partial2Partials | None
+@Partial2Partials | No Mining Codes
 @coolcatcool2 | None
-@Scratch-Coding | None
+@Scratch-Coding | Mining Codes
 @Virus000 | None
 
 #### Group 5
@@ -120,7 +124,7 @@ Username | Vote
 Vote | Amount
 -|-
 Yes | 0
-No | 0
+No | 14
 
 ## Elections
 
