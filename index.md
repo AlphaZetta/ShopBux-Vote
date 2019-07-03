@@ -117,7 +117,7 @@ Username | Vote
 Username | Vote
 -|-
 @smileycreations15 | None
-@1132262 | None
+@1132262 | No Mining Codes
 
 #### Total
 
