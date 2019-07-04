@@ -80,15 +80,19 @@ Username | Vote
 @MClovers | No Mining Codes
 @CaptainRatlex | None
 @Riddle_Man | None
-@NYCDOT | None
+@NYCDOT | No Mining Codes
 
 #### Group 2
 
 Username | Vote
 -|-
-@Dragonlord767 | None
+@Dragonlord767 | No Mining Codes
 @ajsya | No Mining Codes
 @berryjam3506 | None
+
+**WINNER: NO MINING CODES**
+
+**VOTES: 14**
 
 #### Group 3
 
@@ -127,7 +131,7 @@ Username | Vote
 
 Vote | Amount
 -|-
-Yes | 4
+Yes | 18
 No | 18
 
 ## Elections
