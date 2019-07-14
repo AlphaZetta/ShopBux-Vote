@@ -136,4 +136,59 @@ No | 18
 
 ## Elections
 
-*None at the moment*
+### First Moderation Council Election
+
+#### Group 1
+
+Username | Vote
+-|-
+@MClovers | People's Party
+@CaptainRatlex~ | None
+@Riddle_Man~ | None
+@NYCDOT | People's Party
+
+**WINNER: PEOPLE'S PARTY**
+
+**VOTES: 16**
+
+#### Group 2
+
+Username | Vote
+-|-
+@Dragonlord767 | None
+@ajsya | None
+@berryjam3506 | None
+
+#### Group 3
+
+Username | Vote
+-|-
+@ZPgaming | None
+@FrenchBread49 | None
+@hellounicorns2 | None
+
+#### Group 4
+
+Username | Vote
+-|-
+@Alex11345 | None
+@Partial2Partials | None
+@openPoll | None
+@Scratch-Coding | None
+@jbrow78 | None
+@AFNNetworkK12 | None
+@Virus000 | None
+
+#### Group 5
+
+Username | Vote
+-|-
+@smileycreations15 | None
+@1132262 | None
+
+#### Total
+
+Vote | Amount
+-|-
+People's Party | 16
+Scratcher's Party | 0
