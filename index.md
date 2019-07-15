@@ -170,13 +170,13 @@ Username | Vote
 
 Username | Vote
 -|-
-@Alex11345 | None
+@Alex11345 | T.E.
 @Partial2Partials | People's Party
 @openPoll | None
-@Scratch-Coding | None
+@Scratch-Coding | People's Party
 @jbrow78 | Scratcher's Party
 @AFNNetworkK12 | Scratcher's Party
-@Virus000~ | None
+@Virus000 | T.E.
 
 #### Group 5
 
