@@ -155,7 +155,7 @@ Username | Vote
 
 Username | Vote
 -|-
-@Dragonlord767 | None
+@Dragonlord767 | People's Party
 @ajsya | None
 @berryjam3506 | None
 
