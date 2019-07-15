@@ -177,7 +177,7 @@ Username | Vote
 @Scratch-Coding | None
 @jbrow78 | Scratcher's Party
 @AFNNetworkK12 | Scratcher's Party
-@Virus000 | None
+@Virus000~ | None
 
 #### Group 5
 
