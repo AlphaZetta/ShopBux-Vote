@@ -165,7 +165,7 @@ Username | Vote
 -|-
 @ZPgaming | None
 @FrenchBread49 | None
-@hellounicorns2 | None
+@hellounicorns2 | People's Party
 
 #### Group 4
 
@@ -175,8 +175,8 @@ Username | Vote
 @Partial2Partials | None
 @openPoll | None
 @Scratch-Coding | None
-@jbrow78 | None
-@AFNNetworkK12 | None
+@jbrow78 | Scratcher's Party
+@AFNNetworkK12 | Scratcher's Party
 @Virus000 | None
 
 #### Group 5
