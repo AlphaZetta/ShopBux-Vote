@@ -171,7 +171,7 @@ Username | Vote
 Username | Vote
 -|-
 @Alex11345 | None
-@Partial2Partials | None
+@Partial2Partials | People's Party
 @openPoll | None
 @Scratch-Coding | None
 @jbrow78 | Scratcher's Party
