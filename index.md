@@ -143,7 +143,7 @@ No | 18
 Username | Vote
 -|-
 @MClovers | People's Party
-@CaptainRatlex~ | None
+@CaptainRatlex~ | T.E.
 @NYCDOT | People's Party
 
 **WINNER: PEOPLE'S PARTY**
