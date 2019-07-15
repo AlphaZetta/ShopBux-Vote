@@ -144,7 +144,6 @@ Username | Vote
 -|-
 @MClovers | People's Party
 @CaptainRatlex~ | None
-@Riddle_Man~ | None
 @NYCDOT | People's Party
 
 **WINNER: PEOPLE'S PARTY**
