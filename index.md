@@ -148,7 +148,7 @@ Username | Vote
 
 **WINNER: PEOPLE'S PARTY**
 
-**VOTES: 16**
+**VOTES: 19**
 
 #### Group 2
 
@@ -193,5 +193,5 @@ Username | Vote
 
 Vote | Amount
 -|-
-People's Party | 25.5
+People's Party | 28.5
 Scratcher's Party | 9.5
