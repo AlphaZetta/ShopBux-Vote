@@ -148,7 +148,7 @@ Username | Vote
 
 **WINNER: PEOPLE'S PARTY**
 
-**VOTES: 19**
+**VOTES: 16**
 
 #### Group 2
 
@@ -162,9 +162,13 @@ Username | Vote
 
 Username | Vote
 -|-
-@ZPgaming | T.E
+@ZPgaming | People's Party
 @FrenchBread49 | None
 @hellounicorns2 | People's Party
+
+**WINNER: PEOPLE'S PARTY**
+
+**VOTES: 14**
 
 #### Group 4
 
@@ -193,5 +197,7 @@ Username | Vote
 
 Vote | Amount
 -|-
-People's Party | 28.5
+People's Party | 39.5
 Scratcher's Party | 9.5
+
+**WINNER: PEOPLE'S PARTY**
