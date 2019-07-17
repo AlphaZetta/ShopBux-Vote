@@ -180,7 +180,7 @@ Username | Vote
 
 **WINNER: TIE, VOTES SPLIT**
 
-**9.5, 9.5**
+**VOTES: 9.5, 9.5**
 
 #### Group 5
 
