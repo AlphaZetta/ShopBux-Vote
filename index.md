@@ -172,11 +172,15 @@ Username | Vote
 -|-
 @Alex11345 | T.E.
 @Partial2Partials | People's Party
-@openPoll | None
+@openPoll | *
 @Scratch-Coding | People's Party
 @jbrow78 | Scratcher's Party
 @AFNNetworkK12 | Scratcher's Party
 @Virus000 | T.E.
+
+**WINNER: TIE, VOTES SPLIT**
+
+**9.5, 9.5**
 
 #### Group 5
 
@@ -189,5 +193,5 @@ Username | Vote
 
 Vote | Amount
 -|-
-People's Party | 16
-Scratcher's Party | 0
+People's Party | 25.5
+Scratcher's Party | 9.5
